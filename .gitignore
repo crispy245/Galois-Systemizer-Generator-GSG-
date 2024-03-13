@@ -1,0 +1,9 @@
+src/gen_verilog/*.v
+*.vcd
+*.in
+*.ouy
+Makefile
+*.txt
+src/systemize_tb
+env/
+src/__pycache__
